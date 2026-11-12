@@ -13,6 +13,7 @@ Each key has a south facing smd ice blue led under the switch.
 <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/7d8acd5a-e994-424d-9756-1e7454170751" />
 
 Heres A Render Of The Whole Build
+
 https://github.com/user-attachments/assets/ba00d72b-443f-43d3-ab56-3a87e9c14a67
 
 # Features 

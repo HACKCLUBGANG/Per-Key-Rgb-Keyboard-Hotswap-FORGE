@@ -28,8 +28,8 @@ https://github.com/user-attachments/assets/ba00d72b-443f-43d3-ab56-3a87e9c14a67
 
 # Schematics 
 Files in /PcbandSchem
-<img width="965" height="404" alt="image" src="https://github.com/user-attachments/
-assets/837b016a-5d6b-4de2-ae50-0404e83b98fd" />
+
+<img width="965" height="404" alt="image" src="https://github.com/user-attachments/assets/837b016a-5d6b-4de2-ae50-0404e83b98fd" />
 <img width="404" height="328" alt="image" src="https://github.com/user-attachments/assets/306b7ed5-6ca3-48ef-976e-88693d8ab7a3" />
 <img width="258" height="401" alt="image" src="https://github.com/user-attachments/assets/2819442a-401a-4da7-9c5e-eec5b5dd7ae3" />
 <img width="718" height="758" alt="image" src="https://github.com/user-attachments/assets/30442711-04e2-4a3a-8e7c-7c19159b3275" />

@@ -1,0 +1,18 @@
+﻿#,Component,Part Number / Model,Qty Needed,Qty Purchased,Price (INR),Product Link
+1,Custom PCB + Shipping,JLCPCB FR-4,1,1,~2665,https://jlcpcb.com/
+2,Microcontroller,Raspberry Pi Pico (RP2040),1,1,422,https://robu.in/?s=Raspberry+Pi+Pico&post_type=product
+3,USB-C Female Connector,Hroparts TYPE-C-31-M-13A (R250302),1,1,27,https://robu.in/product/type-c-31-m-13a-hroparts-5a-1-recessed-mount-16p-female-30%e2%84%8380-type-c-smd-usb-connectors-rohs/
+4,USB-A to Micro-USB Cable,80cm,1,1,59,https://robu.in/?s=USB-A+to+Micro-USB+cable&post_type=product
+5,Micro-USB Male Connector,YT2153Y,1,1,79,https://robu.in/?s=YT2153Y&post_type=product
+6,LED Driver IC,TLC5948APWPR,4,4,1144,https://robu.in/?s=TLC5948APWPR&post_type=product
+7,Ice-Blue LEDs,XINGLIGHT XL-2835BGWC-05,61,85,102,https://robu.in/?s=XL-2835BGWC-05&post_type=product
+8,Switching Diodes,Slkor 1N4148W SOD-123,61,70,72.80,https://robu.in/?s=1N4148W&post_type=product
+9,Ceramic Capacitors,"100nF, 1206, 50V",4,4,32,https://robu.in/?s=100nF+1206+50V&post_type=product
+10,Bulk Capacitor,"Taiyo Yuden EMK325ABJ107MM-T, 100µF 16V",1,1,292.19 (estimate),https://www.lioncircuits.com/
+11,Resistors,"10kΩ, 1206",4,12,10.56,https://robu.in/?s=10k+1206+resistor&post_type=product
+12,Resistors,"5.1kΩ, 1206",2,48,10.08,https://robu.in/?s=5.1k+1206+resistor&post_type=product
+13,Resistors,"Yageo AC1206FR-07200RL, 200Ω",0 required for IREF,25,10.25,https://robu.in/?s=200+ohm+1206&post_type=product
+14,Mechanical Switches,Gateron G Pro 3.0 Yellow,61,70 (7 packs),1253.70,https://meckeys.com/?s=Gateron+G+Pro+3.0+Yellow&post_type=product
+15,Hot-Swap Sockets,"Kailh MX Hot-Swap Socket, White",61,7 listings,504,https://meckeys.com/?s=Kailh+hot-swap+socket&post_type=product
+16,Stabilizers,DesignerStudio Plate Stabilizers,4 × 2U + 1 × 6.25U,1 kit,550,https://keyora.store/products/designerstudio-100-plate-mount-stabilizers-adaptive-wire-pom
+17,Keycaps,Selected keycap set,1 set,1 set,799,—
